@@ -1,0 +1,6 @@
+.vs
+*.user
+bin
+debug
+release
+obj
